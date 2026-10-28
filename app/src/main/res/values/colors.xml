@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="night_blue">#0B2447</color>
+    <color name="dark_blue">#061326</color>
+    <color name="primary">#0B2447</color>
+    <color name="primary_dark">#061326</color>
+    <color name="accent">#2F6FED</color>
+    <color name="app_bg">#EEF3FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0B1F3A</color>
+    <color name="text_secondary">#5A6B85</color>
+    <color name="white">#FFFFFF</color>
+</resources>
