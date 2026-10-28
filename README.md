@@ -1,4 +1,4 @@
-# KnightApp - Android Assignment 2
+# TASK MANAGER APP - Android Assignment 2
 
 An Android application (Java + XML) with common app screens, built with a **Knight Blue (#0B2447)** and **Dark Blue (#061326)** theme, including light and dark mode support.
 
